@@ -49,4 +49,11 @@ h3 {
 .box-multiple {
   box-shadow: inset 0px 0px 20px 4px rgb(55, 16, 92),
     0px 0px 20px 4px blueviolet;
+  border-radius: 5px;
+}
+
+.box-multiple-solid {
+  border-radius: 2px;
+  box-shadow: 3px 3px 0px 3px rgb(92, 44, 68), 5px 5px 0px 5px hotpink,
+    7px 7px 0px 7px blue;
 }
